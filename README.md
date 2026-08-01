@@ -38,6 +38,7 @@ the same artifact twice. This cohort has one artifact, and it grows.
 git clone https://github.com/BayramAnnakov/edu-ai-sales-s3.git
 cp -r edu-ai-sales-s3/sales-starter ~/sales
 cd ~/sales && claude        # or: codex
+# then:  /audit-funnel
 ```
 
 Then read `~/sales/CLAUDE.md` and fill in section 1.
@@ -64,7 +65,7 @@ agent has been **run**, not that the data is proprietary.
 
 ## Definition of done — 10 October
 
-1. It lives in `~/sales/skills/`
+1. It lives in `~/sales/.claude/skills/`
 2. It runs with one command
 3. It has processed **10 objects** — yours or the sample case
 4. `signals/` contains lines **it wrote itself**

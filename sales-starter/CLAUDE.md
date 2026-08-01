@@ -38,7 +38,7 @@ approve · `L3` AI runs it, you step in · `L4` autonomous in guardrails · `L5`
 
 **I am shipping the arrow:** <!-- name one --> · **by 10 October 2026**
 
-Done means: it lives in `skills/`, runs with one command, has processed **10 objects**
+Done means: it lives in `.claude/skills/`, runs with one command, has processed **10 objects**
 (yours if you can, the sample case if you cannot — say which), and `signals/` contains lines
 **it wrote itself**.
 
@@ -100,7 +100,8 @@ signals/
     targeting/         → who we go after
     qualification/     → who we let through
     unrouted/          → not yet routed
-skills/                every agent from every session
+.claude/skills/        every agent from every session
+.claude/commands/      /audit-funnel and friends
 pipeline.md            what is in play, whose next action is overdue
                        DERIVED — never hand-written  (arrives session 5)
 ```
