@@ -5,12 +5,12 @@ interested,500,"labelled 'interested' by an LLM classifier — NOT a human obser
 crm_opportunities,145,reached CRM as opportunity
 closed_won,16,signed
 metric,value,note
-avg_contract_value_usd,22000,per year (~$1500/mo)
+avg_contract_value_usd,22000,per year (~$1833/mo)
 sales_cycle_days,45,from first meeting to signature
 cac_usd,900,"blended; market average for this segment ~1800"
 aes,3,account executives
 calls_logged,155,"~150-160 calls across 3 AEs over the year"
-tam_companies,100000,"US HVAC companies matching the profile"
+tam_companies,100000,US field-service companies matching the profile
 revenue_usd,352000,16 x 22000
 channel,value,note
 primary_channel,LinkedIn outbound,"only channel; chosen from prior experience, never compared against alternatives"
