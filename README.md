@@ -30,7 +30,7 @@ the same artifact twice. This cohort has one artifact, and it grows.
 |---|---|
 | `sales-starter/` | **Copy this to `~/sales/`.** The scaffold every session fills. Its `CLAUDE.md` is the contract your agents follow — read it first; it is the actual product here. |
 | `sample-case/` | **ServiceGrid** — a complete fictional B2B SaaS company. Use it if you have no data of your own, or cannot share the data you have. Every exercise works on it. |
-| `session1/` | Slides and homework. One folder per session as we go. |
+| `session1/` … | Slides, notes and homework for each session — **published after that session is delivered**, not before. |
 
 ## Start here
 
@@ -71,4 +71,5 @@ agent has been **run**, not that the data is proprietary.
 
 ---
 
-Questions → the Telegram group. Recordings and notes land in each session folder.
+Questions → the Telegram group. Recordings, slides and notes land in each session folder
+after that session runs.

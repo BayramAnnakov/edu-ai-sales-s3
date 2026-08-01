@@ -1,3 +1,9 @@
+# ── SESSION MATERIALS ARE PUBLISHED ONLY AFTER THE SESSION IS DELIVERED ───────
+# Slides and session notes spoil the session if they land here first. Add a
+# session folder AFTER you have taught it, never before.
+session*/
+!session*/.gitkeep
+
 # ── FACILITATOR-ONLY. NEVER COMMIT. ───────────────────────────────────────────
 # These carry speaker notes with participant assessments, client names and
 # internal strategy. The share build (slides.html) is the only publishable deck.
