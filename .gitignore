@@ -1,0 +1,32 @@
+# ── FACILITATOR-ONLY. NEVER COMMIT. ───────────────────────────────────────────
+# These carry speaker notes with participant assessments, client names and
+# internal strategy. The share build (slides.html) is the only publishable deck.
+RUN-OF-SHOW.md
+EMAIL-setup.md
+slides.js
+workshop.html
+build.mjs
+**/RUN-OF-SHOW.md
+**/EMAIL-setup.md
+**/slides.js
+**/workshop.html
+**/build.mjs
+
+# ── local working state ───────────────────────────────────────────────────────
+.DS_Store
+node_modules/
+venv/
+.venv/
+__pycache__/
+*.pyc
+.env
+.claude/settings.local.json
+
+# ── students: your own sales data never belongs in this repo ──────────────────
+# Your ~/sales/ lives on YOUR machine. sales-starter/ here is only the scaffold.
+# ignore any real content, keep the empty scaffold (.gitkeep re-included below)
+sales-starter/leads/**
+sales-starter/customers/**
+sales-starter/signals/**
+!sales-starter/**/
+!sales-starter/**/.gitkeep
