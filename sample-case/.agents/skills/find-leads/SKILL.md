@@ -74,7 +74,7 @@ CRITERION            [the wish]
 
 | family | what it reveals | examples |
 |---|---|---|
-| **licensing & regulatory registries** | capability, equipment, permission to operate | FAA UAS / Part 107 · FCC · state contractor & trade licences · bar and medical registers · FDA |
+| **licensing & regulatory registries** | capability, equipment, permission to operate | transport/carrier censuses · state contractor & trade licence boards · professional registers · aviation and radio operator records |
 | **procurement & tender records** | budget, buying behaviour, incumbent vendor | government tenders, public contract awards |
 | **job postings** | what hurts **right now**, tools in use, team shape | the company describing its own pain, in its own words |
 | **corporate filings & registries** | size, revenue, ownership, legal form | SEC · Companies House · national business registers |
@@ -84,12 +84,19 @@ CRITERION            [the wish]
 | **physical footprint** | scale, geography, capacity | branch and location pages, fleet size, service-area maps |
 
 **Worked example — the move this step exists to teach.**
-ICP: *construction, utilities, mining and engineering firms that operate drones.* There is no
-"uses drones" field anywhere. But operating one commercially **requires registration** — so the
-national aviation registry lists operators by company. An unsearchable capability became a
-searchable **list**, because a regulator made someone write it down.
+ICP: *field-service contractors with 20-200 technicians.* Nobody publishes a technician count. But
+a service fleet crossing a weight threshold or working across state lines **must register with the
+transport regulator**, and that filing carries power units and driver counts by company — so a
+carrier census becomes a size proxy. It is not the number you wanted: registration only binds above
+the threshold, so a van-sized shop staying in-state may not appear at all, and **absence from the
+register is not evidence of being small**. That caveat is part of the answer, not a footnote to it.
 
-Ask that question of every dead criterion: **who made them write this down, and where?**
+⚠️ **Check the register is actually open before you rely on it.** Some are searchable by anyone;
+some are request-only, paywalled, or expose the operator but not the company. A regulator having
+the data does not mean you can read it.
+
+Ask that question of every dead criterion: **who made them write this down, and can I actually
+read it?**
 
 ⚠️ **A named registry is not a sourced criterion.** Before you write PROXY, say which specific
 record you would look up, and confirm you can actually reach it. If you cannot, write
