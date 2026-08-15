@@ -91,6 +91,13 @@ searchable **list**, because a regulator made someone write it down.
 
 Ask that question of every dead criterion: **who made them write this down, and where?**
 
+⚠️ **A named registry is not a sourced criterion.** Before you write PROXY, say which specific
+record you would look up, and confirm you can actually reach it. If you cannot, write
+**`PROXY UNVERIFIED`** and say why — wrong jurisdiction, paywalled, no coverage for this segment,
+or you simply could not open it. **Naming a plausible-sounding database is the exact failure this
+step exists to prevent.** Registries have jurisdictions and thresholds: a national register only
+covers its own country, and most have a size or activity floor below which nobody appears at all.
+
 **Then give each criterion one of three verdicts — never just "unsourceable":**
 
 1. **PROXY** — a different observable stands in. Say what it gets wrong. *(A fleet count is not a
@@ -149,12 +156,17 @@ Bulk lists go to `leads/` as CSV. **Never one folder per lead** — a lead earns
 `customers/` only on first real interaction.
 
 ```
-name,title,company,headcount,location,score,evidence_url,evidence_checked,unsourced,trigger,outreach_angle,source_tool,pulled_on
+name,title,company,headcount,location,score,evidence_url,evidence_claim,evidence_checked,unsourced,trigger,outreach_angle,source_tool,pulled_on
 ```
 
 - **`evidence_url`** — the ONE link to check this row. Never a search-results page.
-- **`evidence_checked`** — **always write `no`.** Only a human who has opened the URL may change
-  it to `yes`. **You may never set this yourself**, in this run or any later one.
+- **`evidence_claim`** — in three or four words, **which claim that URL actually supports**
+  (`ownership`, `headcount`, `the trigger event`). A row carries several claims; one link almost
+  never covers all of them, and naming the claim is what stops one opened link from masquerading
+  as a verified row.
+- **`evidence_checked`** — **always write `no`.** It means, and only means: *a human opened
+  `evidence_url` and confirmed the claim named in `evidence_claim`.* It does **not** mean the score
+  is verified. **You may never set this yourself**, in this run or any later one.
 - **`unsourced`** — semicolon-separated ICP criteria you could not verify *for this lead*.
   Leaving it empty asserts you checked everything; make sure that is true.
 - **`source_tool`** — what you actually searched with. If you used a fallback, say so here.
