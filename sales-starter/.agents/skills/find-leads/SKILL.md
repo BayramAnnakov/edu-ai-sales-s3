@@ -74,7 +74,7 @@ CRITERION            [the wish]
 
 | family | what it reveals | examples |
 |---|---|---|
-| **licensing & regulatory registries** | capability, equipment, permission to operate | transport/carrier censuses · state contractor & trade licence boards · professional registers · aviation and radio operator records |
+| **licensing & regulatory registries** | capability, equipment, **permission to do the unusual thing** | aviation waivers and exemptions · transport/carrier censuses · state contractor & trade licence boards · professional registers |
 | **procurement & tender records** | budget, buying behaviour, incumbent vendor | government tenders, public contract awards |
 | **job postings** | what hurts **right now**, tools in use, team shape | the company describing its own pain, in its own words |
 | **corporate filings & registries** | size, revenue, ownership, legal form | SEC · Companies House · national business registers |
@@ -84,16 +84,36 @@ CRITERION            [the wish]
 | **physical footprint** | scale, geography, capacity | branch and location pages, fleet size, service-area maps |
 
 **Worked example — the move this step exists to teach.**
-ICP: *field-service contractors with 20-200 technicians.* Nobody publishes a technician count. But
-a service fleet crossing a weight threshold or working across state lines **must register with the
-transport regulator**, and that filing carries power units and driver counts by company — so a
-carrier census becomes a size proxy. It is not the number you wanted: registration only binds above
-the threshold, so a van-sized shop staying in-state may not appear at all, and **absence from the
-register is not evidence of being small**. That caveat is part of the answer, not a footnote to it.
 
-⚠️ **Check the register is actually open before you rely on it.** Some are searchable by anyone;
-some are request-only, paywalled, or expose the operator but not the company. A regulator having
-the data does not mean you can read it.
+ICP: *construction, utilities, mining and engineering firms that operate drones.* There is no
+"uses drones" field in any company database. But flying commercially **outside the routine rules** —
+beyond visual line of sight, over people, over moving vehicles, at night — requires a **waiver**,
+and the regulator **publishes every waiver it grants**. Each certificate reads:
+
+```
+CERTIFICATE OF WAIVER AND AUTHORIZATION ISSUED TO
+  <the organisation>
+  Responsible Person: <a named individual>
+  ADDRESS: <where they operate>
+LIST OF WAIVED REGULATIONS
+  <which rules they were allowed to break>
+```
+
+Three things fall out of one free public list:
+1. **the company** — the certificate is issued to the organisation, even where the filename is a person;
+2. **a named person** who owns the programme — your actual contact;
+3. **how serious the programme is** — a beyond-line-of-sight waiver is a different buyer from a
+   one-off photography permission. *The waived rule is the intent signal.*
+
+⚠️ **And what it gets wrong, which is part of the answer:** it only lists operators who needed a
+waiver. Routine daylight line-of-sight flying requires none — so **absence from the list is not
+evidence that a company does not fly drones.** It is a high-precision, low-recall source: everyone
+on it qualifies, and plenty who qualify are not on it.
+
+A second one, produced by this skill on the sample case: for *"20-200 technicians"* — a number
+nobody publishes — a national carrier census carries power units and driver counts by company.
+Same shape, same caveat: registration binds only above a size threshold, so absence is not evidence
+of being small.
 
 Ask that question of every dead criterion: **who made them write this down, and can I actually
 read it?**
