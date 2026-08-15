@@ -208,6 +208,39 @@ Append if the file exists. Never overwrite.
 
 ---
 
+## Step 5b · Draft the top three — from the evidence, not from a template
+
+Write `leads/drafts-YYYY-MM-DD.md`: three short outreach drafts, for the three highest-scoring
+rows **whose evidence you could actually resolve**. Not the top three by score — the top three you
+can stand behind.
+
+**Each draft opens with the thing you verified.** That is the whole rule. If `evidence_claim` says
+*"80+ patents"*, the opener refers to the patents. If the only verified fact is a funding round,
+the opener refers to the round. **A draft whose opener is not traceable to that row's evidence is
+a template with a name pasted into it, and it will read as one.**
+
+```markdown
+## <name> · <company> · score <n>
+**Verified:** <the evidence_claim, and the link>
+**Could not verify:** <the unsourced list — do not write around it, write within it>
+
+<3-4 sentences. First sentence names the verified fact. One ask at the end.>
+```
+
+Three constraints, each of which exists because its opposite has been measured to fail:
+
+1. **Never open with a compliment about the company.** It is the most common opener and it is
+   indistinguishable from every other one they received this week.
+2. **Never write "no pitch" or "just sharing, no agenda".** Saying it signals a pitch; a real
+   outreach test killed that phrasing three times over.
+3. **Do not claim what you could not source.** If you could not verify their size, the message
+   must not imply you know it. The `unsourced` column is a list of things you may not assert.
+
+⚠️ **Draft only. Never send, never schedule, never open a mail client.** The human sends, or does
+not.
+
+---
+
 ## Step 6 · File what you could not source → `signals/targeting/`
 
 A criterion you could not source for most leads is a finding about **the ICP**, not about those
@@ -241,7 +274,7 @@ A signal that never changes the contract is a diary entry, not a loop.
 
 ## Step 7 · Report
 
-- the two file paths you wrote, with row counts
+- the three file paths you wrote, with row counts
 - **which criteria could not be sourced** — this is the headline, not the leads
 - the single lead to contact first, and why
 - anything you flagged as ambiguous and did not resolve
