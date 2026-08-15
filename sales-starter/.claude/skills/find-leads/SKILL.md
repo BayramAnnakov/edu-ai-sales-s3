@@ -118,6 +118,12 @@ of being small.
 Ask that question of every dead criterion: **who made them write this down, and can I actually
 read it?**
 
+**Search for the source. Do not recall it.** Before proposing any proxy, run an actual search for
+it — *"<criterion> registry"*, *"<industry> licence lookup <state>"*, *"who publishes <thing>"*,
+*"<segment> association member directory"*. The catalogue above is a prompt for where to look, not
+a list of answers. Sources differ by country, industry and year, and the one that fits this ICP is
+usually not the famous one.
+
 ⚠️ **A named registry is not a sourced criterion.** Before you write PROXY, say which specific
 record you would look up, and confirm you can actually reach it. If you cannot, write
 **`PROXY UNVERIFIED`** and say why — wrong jurisdiction, paywalled, no coverage for this segment,
