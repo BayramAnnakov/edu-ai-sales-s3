@@ -50,6 +50,59 @@ CANNOT BE SEARCHED — flagging now, not after
 **Wait for approval.** An ICP criterion that cannot be sourced is not a criterion, it is a wish —
 and the user needs to know which of theirs are wishes *before* the search, not after.
 
+---
+
+## Step 1b · Source the unsourceable — do not stop at "cannot"
+
+**Naming a criterion unsearchable is half the job.** Most of them are still *observable*, just not
+in the obvious place — because at some point somebody was required to **register, file, publish,
+hire, certify, or get reviewed.**
+
+For every line under CANNOT BE SEARCHED, propose the best available **proxy**, and say what it
+costs in fidelity:
+
+```
+CRITERION            [the wish]
+  DIRECT SOURCE      none
+  PROXY              [what you will actually look at]
+  LIVES IN           [which kind of source]
+  FIDELITY           high / medium / low — and what it gets WRONG
+  VERDICT            proxy · call · delete
+```
+
+**Where to look, by family.** Run down this list before concluding nothing exists:
+
+| family | what it reveals | examples |
+|---|---|---|
+| **licensing & regulatory registries** | capability, equipment, permission to operate | FAA UAS / Part 107 · FCC · state contractor & trade licences · bar and medical registers · FDA |
+| **procurement & tender records** | budget, buying behaviour, incumbent vendor | government tenders, public contract awards |
+| **job postings** | what hurts **right now**, tools in use, team shape | the company describing its own pain, in its own words |
+| **corporate filings & registries** | size, revenue, ownership, legal form | SEC · Companies House · national business registers |
+| **certifications & memberships** | standards, industry, trade body | ISO, accreditation bodies, industry associations |
+| **technology footprint** | stack, integrations | integration/partner pages, tools named in job ads, public repos |
+| **reviews & reputation** | who their customers actually are, volume | employer and product review sites, local listings |
+| **physical footprint** | scale, geography, capacity | branch and location pages, fleet size, service-area maps |
+
+**Worked example — the move this step exists to teach.**
+ICP: *construction, utilities, mining and engineering firms that operate drones.* There is no
+"uses drones" field anywhere. But operating one commercially **requires registration** — so the
+national aviation registry lists operators by company. An unsearchable capability became a
+searchable **list**, because a regulator made someone write it down.
+
+Ask that question of every dead criterion: **who made them write this down, and where?**
+
+**Then give each criterion one of three verdicts — never just "unsourceable":**
+
+1. **PROXY** — a different observable stands in. Say what it gets wrong. *(A fleet count is not a
+   technician count. An employee band counts office staff. Say so per lead.)*
+2. **CALL** — only a conversation resolves it. It is not a targeting criterion at all; it is a
+   **qualification question**. Move it out of the ICP and into the first call.
+3. **DELETE** — it does not discriminate between candidates, or it passed everything it touched.
+   A filter that excludes nobody is identical to not having the filter.
+
+⚠️ **Verdict 3 is the one people miss.** If a criterion passed every candidate you checked, it did
+no work. Say that plainly.
+
 Expand title strings yourself. Literal "VP Sales" under-recalls badly; the real titles include
 `VP, Revenue` · `SVP Sales` · `CRO` · `Head of Revenue` · `Commercial Director`. Say which
 variants you searched.
@@ -123,12 +176,14 @@ Write `signals/targeting/icp-gaps-YYYY-MM-DD.md`:
 **Query run:** [the ICP as searched]
 **Searched with:** [tool] · **Candidates seen:** [N] · **Survived verification:** [M]
 
-| Criterion | Sourced for | Verdict |
-|---|---|---|
-| [criterion] | [2 of 12] | [cannot be sourced from public data / needs a proxy / fine] |
+| Criterion | Sourced for | Proxy used | Verdict |
+|---|---|---|---|
+| [criterion] | [2 of 12] | [what stood in, or —] | **proxy · call · delete** |
 
-**Therefore:** [drop it · replace it with a sourceable proxy · accept it is only confirmable
-on a call]
+**Therefore, per criterion:**
+- **proxy** → name the proxy, where it lives, and what it gets wrong
+- **call** → it is a qualification question, not a targeting criterion. It belongs in the first call.
+- **delete** → it did not discriminate. If it passed everything it touched, say so.
 
 **Also learned:** [anything about the segment itself — thinner than expected, consolidated,
 no buyer at this size, titles differ from assumed]
