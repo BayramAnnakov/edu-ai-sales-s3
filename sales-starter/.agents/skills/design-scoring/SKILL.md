@@ -224,8 +224,32 @@ fiction.
 [list them, plainly. This is the section a reader should look at first.]
 ```
 
-Also **write the first-call questions where a human will find them** — the model file is read by
-agents, and the questions are read by people.
+## Step 5b · Write the questions as their own file — this is a required output
+
+🔴 **Write `signals/qualification/first-call-questions.md`. Named exactly that. Every run.**
+
+The model file is read by agents; this one is read by a person, on a call, on a Monday. It is the
+only artifact of the two that anybody carries into a conversation, and it is the reason the
+"CALL" verdicts from lead-search stop being a shrug and become a script.
+
+**Measured 28 Aug: without this step stated as a filename, a clean run skipped the file entirely** —
+it folded the questions into the model and moved on. "Where a human will find them" is not an
+instruction a machine can check itself against. A filename is.
+
+```markdown
+# First call — the questions
+
+**Last updated:** YYYY-MM-DD
+**Why this page exists:** everything below is something no database will tell you.
+
+### 1 · "<the question, as you would actually say it>"
+*What it settles:* <which criterion>
+*Why you have to ask:* <what the sourcing run found — how often it was resolvable>
+*Ask it this way,* not <the version that gets a useless answer>
+```
+
+One heading per unknown from Step 3. If there are none, write the file anyway and say so — a model
+with nothing to ask about is a claim worth seeing in writing.
 
 ---
 
