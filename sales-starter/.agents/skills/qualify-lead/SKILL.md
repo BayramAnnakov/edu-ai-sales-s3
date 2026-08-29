@@ -154,6 +154,27 @@ the distinction that decides whether to research or to phone.
 name,company,source,tier,score,score_out_of,score_100,confidence,fit,intent,timing,verified,assumed,unknowns,dq_rule,trigger,condition,first_call_question,would_change_tier,next_action,owner,due,predicted_on,outcome,outcome_recorded_by
 ```
 
+🔴 **QUOTE EVERY FIELD THAT CONTAINS A COMMA. THIS IS NOT A STYLE NOTE — IT SILENTLY DESTROYS THE
+FILE.** Most of these columns are free text and most free text has commas in it: `assumed` will say
+*"owner-operated structure (inferred, no chain language)"*, `verified` will list three things,
+`would_change_tier` is a sentence. An unquoted comma splits one field into two and **every column to
+its right shifts left by one for that row only.**
+
+Measured on this exact sample: **8 of 13 rows** came out misaligned, and the visible symptom was
+`predicted_on`'s date sitting in the **`outcome`** column — the one column in this file no agent may
+ever write to. The file looked fine. It was wrong in the single place it must never be wrong.
+
+**The rule, RFC 4180:**
+- a field containing a comma, a double quote, or a newline → wrap the whole field in `"…"`
+- a double quote inside a quoted field → double it (`"` becomes `""`)
+- when in doubt, quote it. Quoting a field that did not need it costs nothing.
+
+⚠️ **THEN COUNT, BEFORE YOU CALL THE STEP DONE.** Every data row must have **exactly the same number
+of fields as the header** — 25. Not "about". Parse your own file back and check the count row by
+row; if any row disagrees, find the unquoted comma and fix it. A row with 26 fields is not a
+cosmetic problem: it has moved somebody's tier, score and outcome into the wrong columns, and the
+next person to open the file has no way to tell.
+
 - **`source`** — `inbound_form` · `outbound_reply` · `referral` · … The same score means different
   things on an inbound form and on a reply to a cold message; if you cannot tell them apart later,
   you cannot learn from either.
