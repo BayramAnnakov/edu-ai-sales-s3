@@ -85,9 +85,9 @@ finishing without approval safe. Offer at the end to write the confirmed ones in
 - **an existing customer** arriving through the wrong door
 
 ⚠️ **Every disqualifier needs a stated test**, not just a name. "A competitor" is not testable.
-*"Email domain matches a known competitor, or the message asks for architecture, tenancy model or
-API documentation before asking about outcomes"* is testable — and it is the one that catches the
-polite ones.
+*"Email domain matches a known competitor, or the enquiry seeks specification rather than outcome
+and never states a problem of its own"* is testable — and it is the one that catches the polite
+ones, who do not use an obvious domain.
 
 ⚠️ **A disqualification is still an answer.** Write what the decline says and what it recommends
 instead. A business too small for you this year may not be too small in three, and the people you
@@ -171,9 +171,9 @@ tier is decoration.
 ⚠️ **Start with four — Hot, Warm, Cold, DQ — and earn the fifth.** The test above cuts tiers that
 duplicate each other; it does not stop you inventing new ones, and the failure mode of this step is
 a beautifully reasoned seven-tier scheme that no sales team will ever hold in their head on a
-Tuesday. Add a fifth tier only when you can name an action that **none of the four can express** —
-a dated re-contact and a referral hand-off are the two that usually earn it. Then say plainly why
-four were not enough. A model with more tiers than the team has behaviours is a taxonomy, not a
+Tuesday. Add a fifth tier only when you can name an action that **none of the four can express**, and say plainly
+what that action is and who owns it. ⚠️ Do not go looking for a fifth — you will find one. Add it
+only when a real lead in front of you cannot be served by any of the four. A model with more tiers than the team has behaviours is a taxonomy, not a
 process.
 
 ```

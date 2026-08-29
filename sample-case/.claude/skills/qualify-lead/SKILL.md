@@ -30,10 +30,10 @@ In this order, and say what you found:
 4. `signals/` — anything a previous run learned.
 
 ⚠️ **Step 0.3 is not a formality and it is the one that gets skipped.** A returning lead is not a
-new lead. If the company has a folder, that folder may already contain the reason the last deal
-died, the dealbreaker nobody answered, and how many calls it took. A scorer that treats a
-returning prospect as a fresh inbound will re-run the conversation that already failed, and it will
-score them *higher* than a stranger — because they arrive knowing what to ask for.
+new lead. Whatever that folder records about how the last conversation ended is context this score
+must not be computed without. A scorer that treats a returning prospect as a fresh inbound re-runs
+the conversation that already failed — and scores them *higher* than a stranger, because they
+arrive knowing exactly what to ask for.
 
 If you find a match, say so **before the score**:
 
