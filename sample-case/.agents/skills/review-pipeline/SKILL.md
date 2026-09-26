@@ -76,8 +76,8 @@ Compute, and label every line with its definition:
    - **as the CRM stands** — every open deal counts, the definitions as they come;
    - **cleaned** — dormant deals out of N, W on decided deals from your confirmed definitions.
 
-   Then the **sanity check**: compare both with the business's actual average bookings per day over
-   the period the data covers. A velocity several times anything the company has ever booked is a
+   Then the **sanity check**: compare both with the won value per day the export actually shows over
+   the period it covers — and say whether that value is a signed amount or a list price. A velocity several times anything the company has ever booked is a
    statement about the records, not about the future. ⚠️ This is a sanity check, not a forecast
    and not a back-test — say so. Neither version is "the true forecast".
 
@@ -145,10 +145,10 @@ five example ids, and for every defect you find name **one prevention** from the
 | check | what it catches |
 |---|---|
 | a meeting or call is recorded, but the stage never moved | the stage is typed by hand and was forgotten |
-| the first meeting happened **before** the deal was created, or a won deal was created within a few days of closing | a deal entered after the fact (for a bonus, at month end) — it inflates the win rate and shrinks the cycle |
-| two records for the same company (normalise the name: case, punctuation, "Co."/"Company"/"Inc.", "&"/"and") — and whether they have different owners, or one of them is already a customer | duplicates: two reps chasing one buyer, or prospecting your own customer |
+| the first meeting happened **before** the deal was created, or a won deal was created within a few days of closing | a deal entered after the fact (for a bonus, at month end). It shortens the measured cycle. It inflates the win rate **only if** the deals that were lost were never entered at all — the dates alone do not show that; say so |
+| two records for the same company (normalise the name: case, punctuation, "Co."/"Company"/"Inc.", "&"/"and"; compare state and size too) — and whether they have different owners, or one of them is already a customer | **possible** duplicates: two reps chasing one buyer, or prospecting your own customer. A matching name is a candidate, not proof — the owner confirms |
 | a closed-lost deal with no loss reason | a required field that was not required |
-| a deal marked with an activity that has no logged call, note or email | activity that happened outside the CRM |
+| a meeting is recorded but no call, note or email is logged against it | activity that happened outside the CRM. **If the export has no event log (only counts), write `NOT ASSESSABLE — no activity events` rather than a count** |
 | open deals silent past the dormant threshold (Step 3) | nobody closes the dead |
 
 **Prevention, in three layers — name the one that fits each defect:**
@@ -160,8 +160,9 @@ five example ids, and for every defect you find name **one prevention** from the
    happened, propose the fix to the record **with that evidence quoted**.
 
 **If the CRM is connected over MCP and has write tools:** propose each repair as one line — record,
-current value, proposed value, evidence — and **apply it only after the user confirms that one
-repair.** Never batch-apply. After applying, add a note to the record saying what changed, why, and
+current value, proposed value, **the definition it satisfies** (a stage change needs a written stage
+definition — if there is none, propose an owner review instead), evidence — and **apply it only after
+the user confirms that one repair.** Never batch-apply. After applying, add a note to the record saying what changed, why, and
 the evidence. Never close, merge or delete a record yourself: propose it to the owner.
 
 ## Step 4 · Who buys — reverse-engineering the ICP from closed deals

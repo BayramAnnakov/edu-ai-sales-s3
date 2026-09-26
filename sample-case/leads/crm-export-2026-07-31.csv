@@ -1,7 +1,7 @@
 deal_id,company,techs,state,incumbent,rep,created_date,first_meeting_date,calls,last_activity_date,stage,close_date,amount_usd,lost_reason
 2192,High Plains Air Systems,98,TX,,Mike R.,2025-08-03,,0,2025-08-03,Closed lost,2025-10-15,27000,no response
-2193,Hollis Service Company,183,OH,,Jess Alvarez,2025-08-04,,0,2025-08-04,Discovery,,50300,
-2194,Cardenas Plumbing and Heating,105,OR,,Owen Pratt,2025-08-09,,0,2025-08-09,Discovery,,28900,
+2193,Hollis Service Company,183,MI,,Jess Alvarez,2025-08-04,,0,2025-08-04,Discovery,,50300,
+2194,Cardenas Plumbing and Heating,105,VA,,Owen Pratt,2025-08-09,,0,2025-08-09,Discovery,,28900,
 2195,Mesa Building Services,28,OR,spreadsheets / paper,Jess Alvarez,2025-08-17,2025-08-28,2,2025-09-21,Closed won,2025-09-22,9600,
 2196,Abernathy Comfort Services,60,VA,,Mike R.,2025-08-20,,0,2025-08-20,Discovery,,16500,
 2197,Birch Heating & Air,70,OH,,Mike R.,2025-08-20,,0,2025-08-20,Discovery,,19200,

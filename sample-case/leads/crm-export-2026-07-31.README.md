@@ -20,7 +20,7 @@ One row per opportunity.
 | `first_meeting_date` | date of the first meeting that actually happened — blank if none was logged | AE |
 | `calls` | calls logged against the opportunity | AE |
 | `last_activity_date` | last logged call, email or note | CRM, automatic |
-| `stage` | Discovery → Demo → Proposal → Closed won / Closed lost — **moved by hand** | AE |
+| `stage` | **Discovery** = link sent, no meeting yet · **Demo** = the first meeting happened · **Proposal** = a quote was sent · then Closed won / Closed lost — **moved by hand** | AE |
 | `close_date` | when it was set to Closed won or Closed lost | CRM, automatic |
 | `amount_usd` | annual contract value at **list price**: `techs` × $275, rounded to the nearest $100 (an exact $50 rounds to the even hundred), minimum $9,600. Discounts and signed amounts are not recorded here | CRM, from `techs` |
 | `lost_reason` | picked from a dropdown when closing as lost | AE |
