@@ -1,0 +1,146 @@
+deal_id,company,techs,state,incumbent,rep,created_date,first_meeting_date,calls,last_activity_date,stage,close_date,amount_usd,lost_reason
+2192,High Plains Air Systems,98,TX,,Mike R.,2025-08-03,,0,2025-08-03,Closed lost,2025-10-15,27000,no response
+2193,Hollis Service Company,183,OH,,Jess Alvarez,2025-08-04,,0,2025-08-04,Discovery,,50300,
+2194,Cardenas Plumbing and Heating,105,OR,,Owen Pratt,2025-08-09,,0,2025-08-09,Discovery,,28900,
+2195,Mesa Building Services,28,OR,spreadsheets / paper,Jess Alvarez,2025-08-17,2025-08-28,2,2025-09-21,Closed won,2025-09-22,9600,
+2196,Abernathy Comfort Services,60,VA,,Mike R.,2025-08-20,,0,2025-08-20,Discovery,,16500,
+2197,Birch Heating & Air,70,OH,,Mike R.,2025-08-20,,0,2025-08-20,Discovery,,19200,
+2198,Parkway Service Co.,55,AZ,,Jess Alvarez,2025-08-21,,0,2025-08-21,Closed lost,2025-09-25,15100,no response
+2199,Urbina Building Services,65,CO,spreadsheets / paper,Jess Alvarez,2025-08-24,2025-08-30,5,2025-10-10,Closed won,2025-10-13,17900,
+2200,Vasquez Comfort Services,102,IN,FieldMaster,Jess Alvarez,2025-08-26,2025-09-03,3,2025-09-17,Closed lost,2025-09-25,28000,
+2201,Cardenas Plumbing & Heating,134,VA,,Jess Alvarez,2025-08-27,,0,2025-08-27,Discovery,,36800,
+2202,Hollis Service Co.,172,MI,spreadsheets / paper,Mike R.,2025-08-27,2025-09-07,5,2025-10-20,Closed won,2025-10-22,47300,
+2203,Crestview HVAC,14,MO,Jobber,Jess Alvarez,2025-08-31,2025-09-09,3,2025-09-22,Closed lost,2025-10-09,9600,
+2204,Juniper Building Services,114,PA,,Jess Alvarez,2025-09-01,,0,2025-09-01,Discovery,,31400,
+2205,Wendt Comfort Services,84,AZ,,Jess Alvarez,2025-09-04,,0,2025-09-04,Discovery,,23100,
+2206,Nordin Air Systems,172,WI,,Mike R.,2025-09-07,,0,2025-09-07,Discovery,,47300,
+2207,Heritage Heating & Air,120,MN,,Mike R.,2025-09-08,,0,2025-09-08,Discovery,,33000,
+2208,Southpoint Mechanical,26,IN,,Owen Pratt,2025-09-13,,0,2025-09-13,Closed lost,2025-11-16,9600,no response
+2209,Olmstead Comfort Services,63,GA,,Mike R.,2025-09-14,,0,2025-09-14,Discovery,,17300,
+2210,Liberty Comfort Services,32,AZ,Jobber,Owen Pratt,2025-11-01,2025-09-24,7,2025-10-31,Closed won,2025-11-01,9600,
+2211,Anchor Service Co.,111,WA,FieldMaster,Mike R.,2025-09-24,2025-09-30,2,2025-10-09,Closed lost,2025-10-19,30500,
+2212,Clearwater Mechanical,57,GA,,Mike R.,2025-09-27,,0,2025-09-27,Discovery,,15700,
+2213,Nygaard Building Services,88,TX,,Owen Pratt,2025-09-28,,0,2025-09-28,Closed lost,2025-11-26,24200,no response
+2214,Mahoney Building Services,106,IL,,Mike R.,2025-09-29,,0,2025-09-29,Discovery,,29200,
+2215,Twin Rivers Building Services,27,TX,,Mike R.,2025-10-02,,0,2025-10-02,Discovery,,9600,
+2216,Fairbanks Plumbing & Heating,139,MO,,Owen Pratt,2025-10-03,,0,2025-10-03,Discovery,,38200,
+2217,Maple Ridge Plumbing & Heating,20,OH,ServiceTitan,Mike R.,2025-10-03,2025-10-12,3,2025-12-14,Closed won,2025-12-16,9600,
+2218,Dvorak Climate Control,35,TX,,Mike R.,2025-10-10,,0,2025-10-10,Discovery,,9600,
+2219,Janssen HVAC,63,VA,,Mike R.,2025-10-11,,0,2025-10-11,Closed lost,2025-11-23,17300,no response
+2220,Underhill Heating & Air,93,IL,Jobber,Mike R.,2025-10-11,2025-10-19,1,2025-10-19,Demo,,25600,
+2221,Albright Heating & Cooling,153,CO,,Mike R.,2025-10-12,,0,2025-10-12,Discovery,,42100,
+2222,Okafor Heating & Air,188,OH,,Owen Pratt,2025-10-12,,0,2025-10-12,Discovery,,51700,
+2223,Garrity Comfort Services,26,UT,,Owen Pratt,2025-10-13,,0,2025-10-13,Discovery,,9600,
+2224,Haugen Building Services,155,VA,,Owen Pratt,2025-10-14,,0,2025-10-14,Discovery,,42600,
+2225,Kuehn Mechanical,173,OR,,Owen Pratt,2025-10-15,,0,2025-10-15,Discovery,,47600,
+2226,Engstrom Building Services,87,TX,ServiceTitan,Mike R.,2025-10-17,2025-10-23,4,2025-12-16,Closed won,2025-12-17,23900,
+2227,Hartwell Comfort Services,99,TX,,Mike R.,2025-10-19,,0,2025-10-19,Discovery,,27200,
+2228,Bayview Mechanical,99,UT,spreadsheets / paper,Mike R.,2025-10-21,2025-10-27,4,2025-11-16,Proposal,,27200,
+2229,Lindqvist Climate Control,159,OH,,Mike R.,2025-10-23,,0,2025-10-23,Discovery,,43700,
+2230,Ridgeline Air Systems,41,OR,spreadsheets / paper,Owen Pratt,2025-12-14,2025-10-30,2,2025-12-11,Closed won,2025-12-14,11300,
+2231,Holm Heating & Air,130,WI,,Jess Alvarez,2025-11-03,,0,2025-11-03,Discovery,,35800,
+2232,Delgado Heating & Air,129,CO,,Owen Pratt,2025-11-04,,0,2025-11-04,Closed lost,2025-12-28,35500,no response
+2233,Prairie Wind Heating & Air,114,WA,ServiceTitan,Mike R.,2025-11-05,2025-11-15,2,2026-01-04,Closed won,2026-01-06,31400,
+2234,Silver Creek Mechanical,150,AZ,,Owen Pratt,2025-11-10,,0,2025-11-10,Discovery,,41200,
+2235,Coastal Building Services,133,CO,,Mike R.,2025-11-15,,0,2025-11-15,Discovery,,36600,
+2236,Frontier Heating & Air,158,MI,,Jess Alvarez,2025-11-15,,0,2025-11-15,Discovery,,43400,
+2237,Tanaka Air Systems,95,UT,,Mike R.,2025-11-16,,0,2025-11-16,Discovery,,26100,
+2238,Ingram Climate Control,121,IL,ServiceTitan,Owen Pratt,2025-11-19,2025-11-25,1,2025-11-26,Closed lost,2025-12-07,33300,timing
+2239,Marchetti Heating & Air,33,TX,,Mike R.,2025-11-19,,0,2025-11-19,Discovery,,9600,
+2240,Thibodeaux Mechanical,76,IL,,Mike R.,2025-11-26,,0,2025-11-26,Discovery,,20900,
+2241,Galvan Service Co.,49,TN,spreadsheets / paper,Owen Pratt,2025-11-29,2025-12-03,2,2025-12-11,Closed lost,2025-12-18,13500,no budget
+2242,Renner Plumbing & Heating,155,VA,,Owen Pratt,2025-12-03,,0,2025-12-03,Discovery,,42600,
+2243,Northfork Service Co.,127,TX,spreadsheets / paper,Mike R.,2025-12-04,2025-12-07,1,2025-12-11,Closed lost,2025-12-28,34900,timing
+2244,Rasmussen Climate Control,174,MO,,Owen Pratt,2025-12-12,,0,2025-12-12,Discovery,,47800,
+2245,Granite Peak Building Services,88,NC,,Mike R.,2025-12-14,,0,2025-12-14,Closed lost,2026-01-23,24200,no response
+2246,Yancey Mechanical,116,WI,,Owen Pratt,2025-12-17,,0,2025-12-17,Discovery,,31900,
+2247,Schaefer Heating & Cooling,52,NC,spreadsheets / paper,Owen Pratt,2025-12-18,2025-12-25,3,2026-01-07,Closed lost,2026-01-26,14300,timing
+2248,Fox Hollow Air Systems,84,IL,,Mike R.,2025-12-21,,0,2025-12-21,Discovery,,23100,
+2249,Voss Building Services,103,MN,,Mike R.,2025-12-21,,0,2025-12-21,Discovery,,28300,
+2250,Tidewater Plumbing & Heating,135,MN,Housecall Pro,Owen Pratt,2025-12-23,2025-12-28,2,2026-01-05,Proposal,,37100,
+2251,Lakeshore Building Services,48,NC,ServiceTitan,Mike R.,2025-12-24,2026-01-04,1,2026-01-06,Closed lost,2026-01-18,13200,price
+2252,Oyelaran Air Systems,187,NC,,Jess Alvarez,2025-12-24,,0,2025-12-24,Discovery,,51400,
+2253,Beacon Climate Control,95,WA,,Mike R.,2025-12-25,,0,2025-12-25,Closed lost,2026-02-05,26100,no response
+2254,Pacheco Service Co.,156,GA,,Jess Alvarez,2025-12-27,,0,2025-12-27,Closed lost,2026-02-08,42900,no response
+2255,Kovac Climate Control,160,OH,FieldMaster,Owen Pratt,2025-12-29,2026-01-03,3,2026-01-16,Closed lost,2026-02-06,44000,chose competitor
+2256,Lomeli Heating & Air,22,TX,Jobber,Owen Pratt,2026-01-01,2026-01-05,1,2026-01-05,Closed lost,2026-01-11,9600,chose competitor
+2257,Osprey Mechanical,63,PA,,Jess Alvarez,2026-01-01,,0,2026-01-01,Closed lost,2026-02-21,17300,no response
+2258,Trujillo Heating & Cooling,120,CO,,Owen Pratt,2026-01-02,,0,2026-01-02,Discovery,,33000,
+2259,Falcon HVAC,139,WI,spreadsheets / paper,Mike R.,2026-01-04,2026-01-10,3,2026-01-21,Closed lost,2026-01-25,38200,timing
+2260,Eastgate Service Co.,79,CO,,Jess Alvarez,2026-01-05,,0,2026-01-05,Closed lost,2026-03-03,21700,no response
+2261,Yoder Plumbing & Heating,126,TN,,Mike R.,2026-01-06,,0,2026-01-06,Discovery,,34600,
+2262,Pruitt Air Systems,140,MN,,Owen Pratt,2026-01-08,,0,2026-01-08,Discovery,,38500,
+2263,Carrow Service Co.,90,WA,,Jess Alvarez,2026-01-10,,0,2026-01-10,Discovery,,24800,
+2264,Moravec Comfort Services,69,TN,,Jess Alvarez,2026-01-10,,0,2026-01-10,Discovery,,19000,
+2265,Heron Service Co.,190,TX,,Mike R.,2026-01-11,,0,2026-01-11,Discovery,,52200,
+2266,Esposito Building Services,129,UT,Jobber,Mike R.,2026-01-12,2026-01-16,1,2026-01-18,Closed lost,2026-01-31,35500,timing
+2267,Halvorsen Heating & Air,159,WA,,Mike R.,2026-01-19,,0,2026-01-19,Discovery,,43700,
+2268,Brookside Heating & Cooling,129,IL,,Jess Alvarez,2026-01-22,,0,2026-01-22,Discovery,,35500,
+2269,Red Cedar Climate Control,155,MI,,Owen Pratt,2026-01-22,,0,2026-01-22,Discovery,,42600,
+2270,Ruiz Mechanical,194,TN,,Jess Alvarez,2026-01-25,,0,2026-01-25,Discovery,,53400,
+2271,Ulrich HVAC,40,WA,,Mike R.,2026-01-27,,0,2026-01-27,Closed lost,2026-04-03,11000,no response
+2272,Whitcomb Building Services,100,OH,Housecall Pro,Jess Alvarez,2026-01-28,2026-02-05,7,2026-03-14,Closed won,2026-03-15,27500,
+2273,Bluestem Service Co.,151,OR,,Jess Alvarez,2026-01-31,,0,2026-01-31,Discovery,,41500,
+2274,Elk Run Building Services,91,CO,,Owen Pratt,2026-02-03,,0,2026-02-03,Discovery,,25000,
+2275,Pioneer HVAC,57,UT,,Owen Pratt,2026-02-05,,0,2026-02-05,Closed lost,2026-04-11,15700,no response
+2276,Brandt Building Services,33,PA,,Mike R.,2026-02-06,,0,2026-02-06,Discovery,,9600,
+2277,Iverson Heating & Cooling,127,AZ,,Jess Alvarez,2026-02-09,,0,2026-02-09,Discovery,,34900,
+2278,Cornerstone HVAC,78,PA,,Mike R.,2026-02-10,,0,2026-02-10,Closed lost,2026-03-26,21400,no response
+2279,Copperleaf Service Co.,22,CO,,Mike R.,2026-02-11,,0,2026-02-11,Closed lost,2026-04-22,9600,no response
+2280,Bishop Air Systems,135,MO,,Owen Pratt,2026-02-12,,0,2026-02-12,Discovery,,37100,
+2281,Varga Heating & Cooling,75,CO,Jobber,Jess Alvarez,2026-02-14,2026-02-19,3,2026-04-12,Closed won,2026-04-13,20600,
+2282,Stroud Comfort Services,29,MI,Housecall Pro,Owen Pratt,2026-02-15,2026-02-25,1,2026-02-25,Closed lost,2026-03-13,9600,not a fit
+2283,Wojcik Building Services,62,VA,,Owen Pratt,2026-02-15,,0,2026-02-15,Closed lost,2026-04-11,17000,no response
+2284,Harvest Climate Control,76,NC,,Mike R.,2026-02-18,,0,2026-02-18,Discovery,,20900,
+2285,Coyle Service Co.,191,AZ,spreadsheets / paper,Owen Pratt,2026-02-19,2026-02-27,3,2026-03-13,Closed lost,2026-03-26,52500,chose competitor
+2286,Wexler HVAC,197,CO,spreadsheets / paper,Jess Alvarez,2026-02-24,2026-02-27,1,2026-02-27,Closed lost,2026-03-09,54200,no budget
+2287,Amundsen HVAC,137,WA,,Mike R.,2026-02-26,,0,2026-02-26,Discovery,,37700,
+2288,Rourke Heating & Air,138,PA,,Owen Pratt,2026-02-26,,0,2026-02-26,Closed lost,2026-04-22,38000,no response
+2289,Midland Mechanical,45,IN,,Mike R.,2026-03-01,,0,2026-03-01,Closed lost,2026-04-13,12400,no response
+2290,Salcedo HVAC,91,GA,,Mike R.,2026-03-02,,0,2026-03-02,Discovery,,25000,
+2291,Northline Mechanical,80,MN,FieldMaster,Mike R.,2026-03-09,2026-03-12,10,2026-03-26,Closed lost,2026-03-28,22000,went quiet
+2292,Aspen Grove Plumbing & Heating,21,MN,FieldMaster,Mike R.,2026-03-14,2026-03-26,1,2026-03-29,Closed lost,2026-04-16,9600,price
+2293,Sorensen Mechanical,33,UT,,Jess Alvarez,2026-03-15,,0,2026-03-15,Discovery,,9600,
+2294,Quintero Mechanical,193,IL,ServiceTitan,Jess Alvarez,2026-03-18,2026-03-21,4,2026-05-06,Closed won,2026-05-06,53100,
+2295,Gunderson Service Co.,27,MI,,Mike R.,2026-03-19,,0,2026-03-19,Discovery,,9600,
+2296,Pellegrino Heating & Air,171,VA,,Jess Alvarez,2026-03-20,,0,2026-03-20,Closed lost,2026-04-11,47000,no response
+2297,Nakamura HVAC,157,TN,,Owen Pratt,2026-03-24,,0,2026-03-24,Discovery,,43200,
+2298,Toivonen Mechanical,84,TN,ServiceTitan,Jess Alvarez,2026-03-24,2026-03-30,7,2026-04-29,Closed lost,2026-05-11,23100,went quiet
+2299,Triangle Heating & Air,99,OH,spreadsheets / paper,Mike R.,2026-03-28,2026-04-05,3,2026-06-09,Closed won,2026-06-12,27200,
+2300,Glacier HVAC,185,OR,,Mike R.,2026-03-30,,0,2026-03-30,Discovery,,50900,
+2301,Riverbend HVAC,183,VA,,Mike R.,2026-04-05,,0,2026-04-05,Closed lost,2026-05-15,50300,no response
+2302,Bergstrom Climate Control,155,MI,FieldMaster,Mike R.,2026-04-08,2026-04-14,3,2026-04-25,Discovery,,42600,
+2303,Falk Mechanical,23,IN,,Mike R.,2026-04-09,,0,2026-04-09,Discovery,,9600,
+2304,Wolf Creek Heating & Cooling,106,NC,spreadsheets / paper,Mike R.,2026-04-10,2026-04-22,1,2026-04-26,Closed lost,2026-04-28,29200,price
+2305,Gorski Air Systems,55,MN,,Jess Alvarez,2026-04-15,,0,2026-04-15,Discovery,,15100,
+2306,Kestrel Service Co.,196,MN,,Mike R.,2026-04-16,,0,2026-04-16,Discovery,,53900,
+2307,Orr Service Co.,164,UT,,Jess Alvarez,2026-04-18,,0,2026-04-18,Discovery,,45100,
+2308,Ellison Heating & Air,161,CO,spreadsheets / paper,Mike R.,2026-04-22,2026-05-04,2,2026-05-13,Closed lost,2026-05-15,44300,not a fit
+2309,Cold Spring Plumbing & Heating,81,NC,,Mike R.,2026-04-23,,0,2026-04-23,Discovery,,22300,
+2310,Kowalski Comfort Services,117,UT,ServiceTitan,Jess Alvarez,2026-04-27,2026-05-06,3,2026-05-20,Closed lost,2026-05-30,32200,went quiet
+2311,Fenwick Service Co.,12,MN,,Mike R.,2026-05-01,,0,2026-05-01,Discovery,,9600,
+2312,Summit Line Heating & Cooling,84,VA,,Mike R.,2026-05-08,,0,2026-05-08,Discovery,,23100,
+2313,Bison Plumbing & Heating,124,UT,,Jess Alvarez,2026-05-12,,0,2026-05-12,Closed lost,2026-06-18,34100,no response
+2314,Mercer HVAC,49,PA,,Jess Alvarez,2026-05-13,,0,2026-05-13,Closed lost,2026-06-06,13500,no response
+2315,Westfield Heating & Air,59,CO,Jobber,Mike R.,2026-05-14,2026-05-21,2,2026-06-30,Closed won,2026-07-01,16200,
+2316,Tall Pine Climate Control,53,NC,Housecall Pro,Mike R.,2026-05-20,2026-05-30,7,2026-07-10,Closed won,2026-07-13,14600,
+2317,Zamora Air Systems,82,WA,Housecall Pro,Owen Pratt,2026-05-22,2026-06-01,2,2026-07-10,Closed won,2026-07-11,22600,
+2318,Canyon Mechanical,72,NC,,Mike R.,2026-05-25,,0,2026-05-25,Discovery,,19800,
+2319,Castellano Heating & Cooling,71,PA,,Owen Pratt,2026-05-27,,0,2026-05-27,Discovery,,19500,
+2320,Blue Ridge Comfort Services,35,VA,,Owen Pratt,2026-06-03,,0,2026-06-03,Discovery,,9600,
+2321,Duquette Heating & Cooling,164,GA,Jobber,Jess Alvarez,2026-06-04,2026-06-07,1,2026-07-14,Proposal,,45100,
+2322,Lachance Air Systems,145,OH,FieldMaster,Mike R.,2026-06-04,2026-06-16,2,2026-06-21,Closed lost,2026-07-05,39900,timing
+2323,Compass HVAC,187,AZ,Jobber,Jess Alvarez,2026-06-05,2026-06-13,4,2026-06-29,Closed lost,2026-07-20,51400,not a fit
+2324,Jaramillo Heating & Cooling,158,OR,ServiceTitan,Owen Pratt,2026-06-05,2026-06-09,1,2026-06-13,Closed lost,2026-07-03,43400,no budget
+2325,Sierra Air Systems,60,VA,,Jess Alvarez,2026-06-06,,0,2026-06-06,Discovery,,16500,
+2326,Petrakis Comfort Services,59,TN,Housecall Pro,Mike R.,2026-06-11,2026-06-19,2,2026-06-24,Closed lost,2026-06-27,16200,no budget
+2327,Zeller Plumbing & Heating,131,TN,ServiceTitan,Jess Alvarez,2026-06-12,2026-06-18,3,2026-07-06,Discovery,,36000,
+2328,Hillside Climate Control,100,UT,ServiceTitan,Jess Alvarez,2026-06-15,2026-06-18,5,2026-07-10,Closed lost,2026-07-25,27500,timing
+2329,Oak Hill Comfort Services,15,MO,Jobber,Jess Alvarez,2026-06-16,2026-06-25,6,2026-07-23,Closed won,2026-07-24,9600,
+2330,Dunmore Mechanical,64,MO,,Jess Alvarez,2026-06-17,,0,2026-06-17,Closed lost,2026-07-31,17600,no response
+2331,Novak Heating & Air,114,NC,,Mike R.,2026-06-18,,0,2026-06-18,Closed lost,2026-07-31,31400,no response
+2332,Marsh Heating & Cooling,138,IL,Jobber,Mike R.,2026-06-19,2026-06-29,7,2026-07-27,Demo,,38000,
+2333,Ibarra Heating & Cooling,194,UT,,Mike R.,2026-06-22,,0,2026-06-22,Closed lost,2026-07-31,53400,no response
+2334,Sandhill Mechanical,139,VA,,Owen Pratt,2026-06-24,,0,2026-06-24,Discovery,,38200,
+2335,Fuentes Plumbing & Heating,138,AZ,spreadsheets / paper,Owen Pratt,2026-07-05,2026-07-13,3,2026-07-30,Demo,,38000,
+2336,Jessup Air Systems,113,MO,,Owen Pratt,2026-07-17,,0,2026-07-17,Discovery,,31100,

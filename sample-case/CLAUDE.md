@@ -47,3 +47,17 @@ A lead becomes a customer folder on first real interaction. Every account file c
 Filed by **what it changes**: `targeting/` (who we go after) · `qualification/` (who we let
 through) · `unrouted/` (learned it, don't know what it changes yet).
 Anything about one company lives in that company's folder instead.
+
+## 6 · Definitions — what our CRM's words mean
+
+> Agents read this before they count anything. A rate whose definition is not written here is a
+> default somebody else chose. Fill in every line, and date it.
+
+**Last reviewed:** _____
+
+| question | our answer |
+|---|---|
+| What makes somebody click "create opportunity"? | |
+| What does "won" mean? | |
+| Where does the sales cycle start, and where does it stop? | |
+| When is an open deal dormant? (no activity for more than __ days before the export date) | |

@@ -117,3 +117,17 @@ subagent definitions. Not created yet — an empty folder teaches nothing.
 `calls/` holds **raw transcripts**. Every new experiment needs a new rubric, and you cannot get a
 rubric out of somebody else's summary. A recorder that will not give you the raw transcript is the
 wrong recorder.
+
+## 8 · Definitions — what our CRM's words mean
+
+> Agents read this before they count anything. A rate whose definition is not written here is a
+> default somebody else chose. Fill in every line, and date it.
+
+**Last reviewed:** _____
+
+| question | our answer |
+|---|---|
+| What makes somebody click "create opportunity"? | |
+| What does "won" mean? | |
+| Where does the sales cycle start, and where does it stop? | |
+| When is an open deal dormant? (no activity for more than __ days before the export date) | |
